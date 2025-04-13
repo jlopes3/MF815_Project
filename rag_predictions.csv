@@ -1046,7 +1046,7 @@ Investment Objective
 The Fund’s investment objective is to seek long-term total return.
 
 Fees and Expenses of the Fund",{'source': 'NLP_app/MutualFundSummary/Eaton Vance Global Small-Cap Fund.txt'},Equity Long Only (Low Risk),True
-Swan Defined Risk Foreign Developed Fund,Equity Long Only (Low Risk),"Swan Defined Risk Foreign Developed Fund <head_breaker>
+Swan Defined Risk Foreign Developed Fund,Balanced Fund (Low Risk),"Swan Defined Risk Foreign Developed Fund <head_breaker>
 
 FUND SUMMARY – SWAN DEFINED RISK FOREIGN DEVELOPED FUND
 
@@ -1054,7 +1054,7 @@ Investment Objective: The Fund seeks income and growth of capital.
 
 Fees and Expenses of the Fund: This table describes the fees and expenses that you may pay if you buy and hold shares of the Fund. You may qualify for sales charge discounts on purchases of Class A shares if you and your family invest, or agree to invest in the future, at least $50,000 in the Fund. More information about these and other discounts is available from your financial professional and in How to Purchase Shares on page 35 of the Fund’s Prospectus. In addition, descriptions of the sales load waivers and/or discounts for Class A shares with respect to certain financial intermediaries are reproduced in “Appendix A: Intermediary-Specific Sales Charge Waivers and Discounts” to the Prospectus based on information provided by the financial intermediary.
 
-Shareholder Fees",{'source': 'NLP_app/MutualFundSummary/Swan Defined Risk Foreign Developed Fund.txt'},Equity Long Only (Low Risk),True
+Shareholder Fees",{'source': 'NLP_app/MutualFundSummary/Swan Defined Risk Foreign Developed Fund.txt'},Equity Long Only (Low Risk),False
 Ivy Micro Cap Growth Fund,Equity Long Only (Low Risk),"Principal Investment Strategies
 
 Ivy Micro Cap Growth Fund seeks to achieve its objective by investing, under normal circumstances, at least 80% of its net assets in equity securities of micro-capitalization companies. The Fund considers a company to be a micro-capitalization company if its market capitalization, at the time of acquisition, is less than the greater of $2 billion or the market capitalization of the largest company in the Russell Microcap Growth Index. As of June 30, 2018 (the quarter-end closest to the index’s rebalance), the largest company in the Russell Microcap Growth Index had a market capitalization of $1.97 billion. The Fund primarily invests in common stock, which may include common stocks that are offered in initial public offerings (IPOs).",{'source': 'NLP_app/MutualFundSummary/Ivy Micro Cap Growth Fund.txt'},Equity Long Only (Low Risk),True
@@ -1186,7 +1186,7 @@ Western Asset Intermediate Maturity New York Municipals Fund,Fixed Income Long O
 Instead of, and/or in addition to, investing directly in particular securities, the fund may use instruments such as derivatives, including options, futures contracts and inverse floating rate instruments issued in tender option bond transactions, and other synthetic instruments that are intended to provide economic exposure to the securities or the issuer or to be used as a hedging technique. The fund may use one or more types of these
 
 Western Asset Intermediate Maturity New York Municipals Fund	 	3 Table of Contents instruments without limit, except that these instruments are taken into account when determining compliance with the fund’s 80% policy. For additional information regarding derivatives, see “More on the fund’s investment strategies, investments and risks—Derivatives” in this Prospectus.",{'source': 'NLP_app/MutualFundSummary/Western Asset Intermediate Maturity New York Municipals Fund.txt'},Fixed Income Long Only (Low Risk),True
-American Funds Preservation Portfolio,Fixed Income Long Only (Low Risk),"American Funds Preservation Portfolio
+American Funds Preservation Portfolio,Balanced Fund (Low Risk),"American Funds Preservation Portfolio
 
 <head_breaker>
 
@@ -1194,7 +1194,7 @@ American Funds Preservation Portfolio
 
 Investment objective The fund’s investment objective is to provide current income, consistent with preservation of capital.
 
-Fees and expenses of the fund This table describes the fees and expenses that you may pay if you buy and hold shares of the fund. In addition to the fees and expenses described below, you may also be required to pay brokerage commissions on purchases and sales of Class F-2 or F-3 shares of the fund. You may qualify for a Class A sales charge discount if you and your family invest, or agree to invest in the future, at least $500,000 in American Funds. More information about these and other discounts is available from your financial professional, in the “Sales charge reductions and waivers” sections on page 76 of the prospectus and on page 96 of the fund’s statement of additional information, and in the sales charge waiver appendix to this prospectus.",{'source': 'NLP_app/MutualFundSummary/American Funds Preservation Portfolio.txt'},Fixed Income Long Only (Low Risk),True
+Fees and expenses of the fund This table describes the fees and expenses that you may pay if you buy and hold shares of the fund. In addition to the fees and expenses described below, you may also be required to pay brokerage commissions on purchases and sales of Class F-2 or F-3 shares of the fund. You may qualify for a Class A sales charge discount if you and your family invest, or agree to invest in the future, at least $500,000 in American Funds. More information about these and other discounts is available from your financial professional, in the “Sales charge reductions and waivers” sections on page 76 of the prospectus and on page 96 of the fund’s statement of additional information, and in the sales charge waiver appendix to this prospectus.",{'source': 'NLP_app/MutualFundSummary/American Funds Preservation Portfolio.txt'},Fixed Income Long Only (Low Risk),False
 Short-Term Bond Fund,Fixed Income Long Only (Low Risk),"Short
 
 Term Bond Fund
@@ -1376,11 +1376,11 @@ term capital appreciation.
 Fees and Expenses of the Fund
 
 The tables below describe the fees and expenses that you may pay if you buy and hold shares of the Fund. You may qualify for sales charge discounts if you and your family invest, or agree to invest in the future, at least $50,000 in Class A shares of eligible funds that are part of the family of mutual funds sponsored by Allianz. More information about these and other discounts is available in the “Classes of Shares” section beginning on page 98 of the Fund’s prospectus or from your financial advisor. In addition, if you purchase shares through a specific intermediary, you may be subject to different sales charges including reductions in or waivers of such charges. More information about these intermediary-specific sales charge variations is available in Appendix A to the Fund’s prospectus (“Intermediary Sales Charge Discounts and Waivers”).",{'source': 'NLP_app/MutualFundSummary/AllianzGI Technology Fund.txt'},Equity Long Only (Low Risk),True
-American Funds Retirement Income Portfolio - Conservative,Fixed Income Long Only (Low Risk),"American Funds Retirement Income Portfolio - Conservative <head_breaker>
+American Funds Retirement Income Portfolio - Conservative,Balanced Fund (Low Risk),"American Funds Retirement Income Portfolio - Conservative <head_breaker>
 
 American Funds Retirement Income Portfolio – Conservative
 
-Investment objectives The fund strives for the accomplishment of three investment objectives: current income, long-term growth of capital and conservation of capital, with an emphasis on income and conservation of capital.",{'source': 'NLP_app/MutualFundSummary/American Funds Retirement Income Portfolio - Conservative.txt'},Balanced Fund (Low Risk),False
+Investment objectives The fund strives for the accomplishment of three investment objectives: current income, long-term growth of capital and conservation of capital, with an emphasis on income and conservation of capital.",{'source': 'NLP_app/MutualFundSummary/American Funds Retirement Income Portfolio - Conservative.txt'},Balanced Fund (Low Risk),True
 Ivy Securian Core Bond Fund,Fixed Income Long Only (Low Risk),"Ivy Securian Core Bond Fund seeks to achieve its objective by investing, under normal circumstances, at least 80% of its net assets in bonds (for this purpose, “bonds” includes any debt security with an initial maturity greater than one year). The Fund invests in a variety of primarily investment-grade debt securities (including bonds rated BBB- or higher by S&P Global Ratings, a division of S&P Global Inc. (S&P), or comparably rated by another nationally recognized statistical rating organization (NRSRO) or, if unrated, determined by IICO, or Securian Asset Management, Inc. (Securian AM), the Fund’s subadviser, to be of comparable quality), which include corporate debt securities, residential and commercial mortgage-backed securities, debt securities issued or guaranteed by the U.S. government or any of its agencies or instrumentalities (U.S. government securities) and other asset-backed securities",{'source': 'NLP_app/MutualFundSummary/Ivy Securian Core Bond Fund.txt'},Fixed Income Long Only (Low Risk),True
 Global Bond Fund,Fixed Income Long Only (Low Risk),"Principal investment strategies Under normal market circumstances, the fund invests at least 80% of its assets in bonds and other debt securities, which may be represented by other investment instruments, including derivatives. The fund invests primarily in debt securities, including asset-backed and mortgage-backed securities and securities of governmental, supranational and corporate issuers denominated in various currencies, including U.S. dollars. As a fund that seeks to invest globally, the fund will allocate its assets among securities of companies domiciled in various countries, including the United States and countries with emerging markets (but in no fewer than three countries)",{'source': 'NLP_app/MutualFundSummary/Global Bond Fund.txt'},Fixed Income Long Only (Low Risk),True
 Vanguard GNMA Fund,Fixed Income Long Only (Low Risk),"Vanguard GNMA Fund
@@ -1503,9 +1503,9 @@ Normally investing at least 80% of assets in investment-grade municipal securiti
 Janus Henderson U.S. Growth Opportunities Fund,Equity Long Only (Low Risk),"Janus Henderson U.S. Growth Opportunities Fund <head_breaker>
 
 Janus Henderson U.S. Growth Opportunities Fund Ticker:	HGRAX	Class A Shares	HGRSX	Class S Shares	HGRRX	Class N Shares HGRCX	Class C Shares	HGRIX	Class I Shares	HGRTX	Class T Shares",{'source': 'NLP_app/MutualFundSummary/Janus Henderson U.S. Growth Opportunities Fund.txt'},Equity Long Only (Low Risk),True
-Growth & Income Fund,Equity Long Only (Low Risk),"Growth & Income Fund
+Growth & Income Fund,Balanced Fund (Low Risk),"Growth & Income Fund
 
-<head_breaker>",{'source': 'NLP_app/MutualFundSummary/Growth _ Income Fund.txt'},Equity Long Only (Low Risk),True
+<head_breaker>",{'source': 'NLP_app/MutualFundSummary/Growth _ Income Fund.txt'},Equity Long Only (Low Risk),False
 American Funds College 2024 Fund,Balanced Fund (Low Risk),"American Funds College 2024 Fund <head_breaker>
 
 American Funds College 2024 Fund
@@ -2548,7 +2548,7 @@ The fund’s investment objective is to seek total return with an emphasis on in
 Fees and Expenses
 
 This table describes the fees and expenses that you may pay when you buy and hold shares of the fund. Investors may also pay commissions or other fees to their financial intermediaries when they buy and hold shares of the fund, which are not reflected below.",{'source': 'NLP_app/MutualFundSummary/MFS Georgia Municipal Bond Fund.txt'},Fixed Income Long Only (Low Risk),True
-Swan Defined Risk Fund,Equity Long Only (Low Risk),"Swan Defined Risk Fund
+Swan Defined Risk Fund,Balanced Fund (Low Risk),"Swan Defined Risk Fund
 
 <head_breaker>
 
@@ -2560,7 +2560,7 @@ Fees and Expenses of the Fund: This table describes the fees and expenses that y
 
 Shareholder Fees
 
-(fees paid directly from your investment)",{'source': 'NLP_app/MutualFundSummary/Swan Defined Risk Fund.txt'},Equity Long Only (Low Risk),True
+(fees paid directly from your investment)",{'source': 'NLP_app/MutualFundSummary/Swan Defined Risk Fund.txt'},Equity Long Only (Low Risk),False
 JPMorgan California Tax Free Bond Fund,Fixed Income Long Only (Low Risk),JPMorgan California Tax Free Bond Fund <head_breaker>,{'source': 'NLP_app/MutualFundSummary/JPMorgan California Tax Free Bond Fund.txt'},Fixed Income Long Only (Low Risk),True
 Variable Portfolio - Oppenheimer International Growth Fund,Equity Long Only (Low Risk),"Variable Portfolio
 
@@ -3117,13 +3117,13 @@ Eaton Vance Special Equities Fund,Equity Long Only (Low Risk),"Principal Investm
 Under normal market conditions, the Fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities (the “80% Policy”). The Fund invests primarily in common stocks of companies with market capitalizations comparable to those of companies included in the Russell 2500™ Index, but the Fund may also invest in
 
 Eaton Vance Domestic Equity Funds	29	Prospectus dated May 1, 2018",{'source': 'NLP_app/MutualFundSummary/Eaton Vance Special Equities Fund.txt'},Equity Long Only (Low Risk),True
-Ivy Managed International Opportunities Fund,Balanced Fund (Low Risk),"Principal Investment Strategies
+Ivy Managed International Opportunities Fund,Equity Long Only (Low Risk),"Principal Investment Strategies
 
 Ivy Managed International Opportunities Fund is a “fund-of-funds” that seeks to achieve its objective by providing investors a diversified portfolio of international stocks, as well as a modest amount of bonds, by investing primarily in Class N shares of certain Ivy Funds global/international mutual funds, as identified below. Each underlying Ivy Fund, in turn, invests in a diversified portfolio of foreign equity securities of issuers in developed as well as emerging markets, and, to a lesser extent, a mixture of securities and bonds issued by foreign corporations and governments, and U.S. equity securities.
 
 The Board, based upon the recommendation of IICO, has authorized the following target allocation ranges for investment of the Fund’s assets in specific underlying funds, although IICO expects the allocation will change over time:
 
-Underlying Fund	 	Maximum Allocation	 	  	Minimum Allocation Ivy Emerging Markets Equity Fund",{'source': 'NLP_app/MutualFundSummary/Ivy Managed International Opportunities Fund.txt'},Balanced Fund (Low Risk),True
+Underlying Fund	 	Maximum Allocation	 	  	Minimum Allocation Ivy Emerging Markets Equity Fund",{'source': 'NLP_app/MutualFundSummary/Ivy Managed International Opportunities Fund.txt'},Balanced Fund (Low Risk),False
 Vanguard Intermediate-Term Treasury Index Fund,Fixed Income Long Only (Low Risk),"Vanguard Intermediate
 
 Term Treasury Index Fund
@@ -3572,7 +3572,7 @@ Fee Table
 
 The following table describes the fees and expenses that may be incurred when you buy and hold shares of the fund. In addition to the fees and expenses described below, your broker may also require you to pay brokerage commissions on purchases and sales of certain share classes of the fund.",{'source': 'NLP_app/MutualFundSummary/Fidelity Advisor Industrials Fund.txt'},Equity Long Only (Low Risk),True
 Mortgage Fund,Fixed Income Long Only (Low Risk),"Principal investment strategies Normally, at least 80% of the fund’s assets is invested in mortgage-related securities, including securities collateralized by mortgage loans and contracts for future delivery of such securities (such as to-be-announced contracts and mortgage dollar rolls). The contracts for future delivery are normally of short duration and may be replaced by another contract prior to maturity. Each such transaction is reflected as turnover in the fund’s portfolio, resulting in a higher portfolio turnover rate than funds that do not employ this investment strategy. The fund invests primarily in mortgage-related securities that are sponsored or guaranteed by the U.S. government, such as securities issued by government-sponsored entities and federal agencies and instrumentalities that are not backed by the full faith and credit of the U.S",{'source': 'NLP_app/MutualFundSummary/Mortgage Fund.txt'},Fixed Income Long Only (Low Risk),True
-Fidelity Simplicity RMD Income Fund,Balanced Fund (Low Risk),"Fidelity Simplicity RMD Income Fund <head_breaker>
+Fidelity Simplicity RMD Income Fund,Fixed Income Long Only (Low Risk),"Fidelity Simplicity RMD Income Fund <head_breaker>
 
 Fund Summary
 
@@ -3594,7 +3594,7 @@ Shareholder fees
 
 Management fee(a) 	 	0.47% Distribution and/or Service (12b-1) fees 	 	None Other expenses(a) 	 	0.00% Total annual operating expenses(a) 	 	0.47% (a)   Adjusted to reflect current fees.
 
-This example helps compare the cost of investing in the fund with the cost of investing in other funds. The example assumes that you are not participating in the Fidelity® systematic withdrawal plan.",{'source': 'NLP_app/MutualFundSummary/Fidelity Simplicity RMD Income Fund.txt'},Balanced Fund (Low Risk),True
+This example helps compare the cost of investing in the fund with the cost of investing in other funds. The example assumes that you are not participating in the Fidelity® systematic withdrawal plan.",{'source': 'NLP_app/MutualFundSummary/Fidelity Simplicity RMD Income Fund.txt'},Balanced Fund (Low Risk),False
 PIMCO Gurtin California Municipal Opportunistic Value Fund,Fixed Income Long Only (Low Risk),"PIMCO Gurtin California Municipal Opportunistic Value Fund <head_breaker>
 
 PIMCO Gurtin California Municipal Opportunistic Value Fund
@@ -4250,13 +4250,13 @@ The Fund seeks long
 term capital appreciation.
 
 Fees and Expenses of the Fund",{'source': 'NLP_app/MutualFundSummary/AllianzGI Focused Growth Fund.txt'},Equity Long Only (Low Risk),True
-Columbia Variable Portfolio - Income Opportunities Fund,Fixed Income Long Only (Low Risk),"Columbia Variable Portfolio
+Columbia Variable Portfolio - Income Opportunities Fund,Balanced Fund (Low Risk),"Columbia Variable Portfolio
 
 Income Opportunities Fund
 
 <head_breaker>
 
-SUMMARY OF COLUMBIA VP – INCOME OPPORTUNITIES FUND Investment Objective Columbia Variable Portfolio (VP) – Income Opportunities Fund (the Fund) seeks to provide shareholders with a high total return through current income and capital appreciation. Fees and Expenses of the Fund This table describes the fees and expenses that you may pay as an investor in the Fund. The table does not reflect any fees or expenses imposed by your Contract or Qualified Plan, which are disclosed in your separate Contract prospectus or Qualified Plan disclosure documents. If the additional fees or expenses were reflected, the expenses set forth below would be higher.",{'source': 'NLP_app/MutualFundSummary/Columbia Variable Portfolio - Income Opportunities Fund.txt'},Fixed Income Long Only (Low Risk),True
+SUMMARY OF COLUMBIA VP – INCOME OPPORTUNITIES FUND Investment Objective Columbia Variable Portfolio (VP) – Income Opportunities Fund (the Fund) seeks to provide shareholders with a high total return through current income and capital appreciation. Fees and Expenses of the Fund This table describes the fees and expenses that you may pay as an investor in the Fund. The table does not reflect any fees or expenses imposed by your Contract or Qualified Plan, which are disclosed in your separate Contract prospectus or Qualified Plan disclosure documents. If the additional fees or expenses were reflected, the expenses set forth below would be higher.",{'source': 'NLP_app/MutualFundSummary/Columbia Variable Portfolio - Income Opportunities Fund.txt'},Fixed Income Long Only (Low Risk),False
 American Funds Conservative Growth and Income Portfolio,Balanced Fund (Low Risk),"American Funds Conservative Growth and Income Portfolio <head_breaker>
 
 American Funds Conservative Growth and Income Portfolio
